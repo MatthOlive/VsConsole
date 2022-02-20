@@ -1,4 +1,0 @@
-module VS_console {
-	
-	
-}
