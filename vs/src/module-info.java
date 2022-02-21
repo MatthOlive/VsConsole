@@ -1,0 +1,4 @@
+module VS_console {
+	
+	
+}
